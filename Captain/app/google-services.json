@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760094493909",
+    "project_id": "captain-fc929",
+    "storage_bucket": "captain-fc929.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760094493909:android:10a50ad01cbcf27770265c",
+        "android_client_info": {
+          "package_name": "com.techiguru.captain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIg4AaQuYkuai4xEIC7Xbohlx-MWZ4fcg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

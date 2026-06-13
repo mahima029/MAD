@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "229530023069",
+    "firebase_url": "https://ai-mock-interview-3e250-default-rtdb.firebaseio.com",
+    "project_id": "ai-mock-interview-3e250",
+    "storage_bucket": "ai-mock-interview-3e250.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229530023069:android:1e2656dd1dbbb53ce15074",
+        "android_client_info": {
+          "package_name": "com.techiguru.aiinterview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_TMuftf5nUXcHVeu4gupxBP61f-VXIg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

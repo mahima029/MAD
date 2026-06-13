@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135644756455",
+    "project_id": "day8-eeece",
+    "storage_bucket": "day8-eeece.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135644756455:android:ecb4f2f1fdfb87507aa542",
+        "android_client_info": {
+          "package_name": "com.techiguru.day8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkEcj3syRHeJxvrsTPt-5SrssAyshK92o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

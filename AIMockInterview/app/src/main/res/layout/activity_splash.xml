@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F7F8FA"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <!-- Logo -->
+    <ImageView
+        android:id="@+id/imgLogo"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:src="@drawable/ic_splash" />
+
+    <!-- App Name -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="InterviewPro AI"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="#111111"
+        android:layout_marginTop="20dp"/>
+
+    <!-- Subtitle -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AI Powered Mock Interviews"
+        android:textSize="16sp"
+        android:textColor="#777777"
+        android:layout_marginTop="8dp"/>
+
+</LinearLayout>
